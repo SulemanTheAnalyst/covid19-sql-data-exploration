@@ -33,6 +33,9 @@ To perform end-to-end exploratory analysis on global COVID-19 datasets using MyS
 - Summed up global new cases and deaths by date.
 - Computed global death percentage over time.
 
+## 📬 Let's Connect!
+If you're a recruiter or someone interested in collaborating, feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/sulemantheanalyst).  
+
 ### Vaccination Analysis:
 - Tracked rolling vaccination totals using window functions.
 - Used CTE and temp tables to calculate % of population vaccinated.
